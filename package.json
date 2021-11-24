@@ -1,4 +1,7 @@
 {
+	"author": {
+		"name": "Pourya Dadsetan",
+		"email": "www.p.dadsetan7370@gmail.com"},
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
